@@ -1,0 +1,25 @@
+{
+  "name": "react-native-core-responsive-screen",
+  "version": "1.0.0",
+  "description": "react-native-core-responsive-screen is a small library that provides 2 simple methods so that React Native developers can code their UI elements fully responsive. No media queries needed. It also provides an optional third method for screen orientation detection and automatic rerendering according to new dimensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarshsingh001/react-native-core-responsive-screen.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Responsive",
+    "Rotation"
+  ],
+  "author": "Utkarsh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Utkarshsingh001/react-native-core-responsive-screen/issues"
+  },
+  "homepage": "https://github.com/Utkarshsingh001/react-native-core-responsive-screen#readme"
+}
