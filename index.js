@@ -30,7 +30,7 @@ const useOrientationChange = () => {
     Dimensions.addEventListener('change', updateOrientation);
 
     return () => {
-      Dimensions.removeEventListener('change', updateOrientation);
+    //   Dimensions.removeEventListener('change', updateOrientation); remove the bug
     };
   }, []);
 
