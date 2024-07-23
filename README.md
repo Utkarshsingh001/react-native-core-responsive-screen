@@ -24,10 +24,6 @@ It also provides an optional third method for screen orientation detection and a
 
 Give it a try and make your life simpler!
 
-Check out [this medium article](https://medium.com/react-native-training/build-responsive-react-native-views-for-any-device-and-support-orientation-change-1c8beba5bc23) to see the power of the library! 🚀
-
-<img src="https://cdn-images-1.medium.com/max/800/1*BWpx3uRPlWByahoXA6M-BQ.jpeg" />
-
 # Installation
 
 `npm install react-native-core-responsive-screen --save`
@@ -264,12 +260,9 @@ const styles = StyleSheet.create({
 
 You can find a working example of this over the [related example repository](https://github.com/Utkarshsingh001/demo-react-native-core-responsive-screen)
 
-
 ### Smartphones
 
-
 ### Tablets
-
 
 # License
 
