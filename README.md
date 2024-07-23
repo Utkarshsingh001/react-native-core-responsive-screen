@@ -23,6 +23,7 @@ Embrace the future of app development with React Native Core Responsive Screen, 
 It also provides an optional third method for screen orientation detection and automatic rerendering according to new dimensions.
 
 Give it a try and make your life simpler!
+![Screenshot 2024-07-23 at 9 20 08 PM](https://github.com/user-attachments/assets/f58d8ac7-71b8-4222-83ab-de738124b883)
 
 # Installation
 
@@ -261,8 +262,10 @@ const styles = StyleSheet.create({
 You can find a working example of this over the [related example repository](https://github.com/Utkarshsingh001/demo-react-native-core-responsive-screen)
 
 ### Smartphones
+![Screenshot 2024-07-24 at 12 45 47 AM (2)](https://github.com/user-attachments/assets/8272c618-09f2-4e1a-91d3-67cc9bbf4c07)
 
 ### Tablets
+![Screenshot 2024-07-24 at 12 42 49 AM (2)](https://github.com/user-attachments/assets/48592f86-1c6b-4fbe-9ae3-fdcbaec5e7f4)
 
 # License
 
